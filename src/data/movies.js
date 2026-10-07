@@ -5,7 +5,7 @@ export const initialMovies = [
     title: "Dune: Part Two",
     year: 2024,
     genre: "Sci-Fi",
-    rating: 5,
+    rating: 3,
     status: "watched",
     poster: "https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
     isFavorite: false
@@ -15,7 +15,7 @@ export const initialMovies = [
     title: "Blade Runner 2049",
     year: 2017,
     genre: "Sci-Fi",
-    rating: 5,
+    rating: 4,
     status: "watching",
     progress: 70,
     poster: "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
@@ -26,7 +26,7 @@ export const initialMovies = [
     title: "The Dark Knight",
     year: 2008,
     genre: "Action",
-    rating: 5,
+    rating: 1,
     status: "watched",
     poster: "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
     isFavorite: false
@@ -46,7 +46,7 @@ export const initialMovies = [
     title: "Interstellar",
     year: 2014,
     genre: "Sci-Fi",
-    rating: 5,
+    rating: 2,
     status: "watched",
     poster: "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
     isFavorite: false
@@ -76,7 +76,7 @@ export const initialMovies = [
     title: "The Shawshank Redemption",
     year: 1994,
     genre: "Drama",
-    rating: 5,
+    rating: 3,
     status: "watched",
     poster: "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
     isFavorite: false
@@ -86,7 +86,7 @@ export const initialMovies = [
     title: "Spider-Man: Across the Spider-Verse",
     year: 2023,
     genre: "Animation",
-    rating: 5,
+    rating: 2,
     status: "watched",
     poster: "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
     isFavorite: false
@@ -126,7 +126,7 @@ export const initialMovies = [
     title: "Spirited Away",
     year: 2001,
     genre: "Animation",
-    rating: 5,
+    rating: 1,
     status: "plan_to_watch",
     poster: "https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
     isFavorite: false
@@ -146,7 +146,7 @@ export const initialMovies = [
     title: "The Matrix",
     year: 1999,
     genre: "Sci-Fi",
-    rating: 5,
+    rating: 2,
     status: "watched",
     poster: "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
     isFavorite: false
@@ -167,7 +167,7 @@ export const initialMovies = [
     title: "Whiplash",
     year: 2014,
     genre: "Drama",
-    rating: 5,
+    rating: 3,
     status: "watched",
     poster: "https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
     isFavorite: false
@@ -187,7 +187,7 @@ export const initialMovies = [
     title: "The Prestige",
     year: 2006,
     genre: "Mystery",
-    rating: 5,
+    rating: 1,
     status: "Up Next",
     poster: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd7uJQGeSgFGdWAJBuUT73prE2GZFOccdY5aE_RI2RThRmpoGx",
     isFavorite: false
@@ -197,7 +197,7 @@ export const initialMovies = [
     title: "Gladiator",
     year: 2000,
     genre: "Action",
-    rating: 5,
+    rating: 2,
     status: "plan_to_watch",
     poster: "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
     isFavorite: false
@@ -218,7 +218,7 @@ export const initialMovies = [
     title: "Mad Max: Fury Road",
     year: 2015,
     genre: "Action",
-    rating: 5,
+    rating: 4,
     status: "watched",
     poster: "https://image.tmdb.org/t/p/w500/8tZYtuWezp8JbcsvHYO0O46tFbo.jpg",
     isFavorite: false

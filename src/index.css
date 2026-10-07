@@ -3,4 +3,7 @@
  
 body{
  font-family: "Isometra", serif;
+ background-color: rgb(161, 121, 121);
+ background-image: url("icons/background.jpg");
+ opacity: 0.91;
 }
